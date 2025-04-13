@@ -1,0 +1,45 @@
+# Python virtual environment
+
+venv/
+
+
+
+# Large data/model directories (adjust names if different)
+
+data/pretrain_dataset/
+
+hindu_scripture_pretrained/
+
+hindu_scripture_finetuned/ # Add if you ever create it
+
+
+
+# Log files
+
+*.out
+
+*.err
+
+
+
+# OS / Editor specific files
+
+.DS_Store
+
+*.swp
+
+.ipynb_checkpoints/
+
+
+
+# Python cache
+
+__pycache__/
+
+*.pyc
+
+
+
+# Specific caches (Optional but good)
+
+.cache/
